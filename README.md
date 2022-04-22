@@ -7,7 +7,7 @@
 
 I have a passion for technology and creation.  I design and develop innovative web and mobile software applications in both front-end and back-end coding.
 
-Skills:  JS / HTML / CSS
+
 
 
 
