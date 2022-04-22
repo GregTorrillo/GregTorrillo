@@ -1,6 +1,7 @@
 ![Designer and Developer](https://github.com/GregTorrillo/GregTorrillo/blob/main/LinkedIn%20Profile%20Banner_1128X191.jpg)
 
-## Hi there 👋, Hi, I'm Greg
+## Hi, I'm Greg
+
 ### Designer and Developer
 
 
