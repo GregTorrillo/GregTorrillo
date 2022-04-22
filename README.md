@@ -1,11 +1,11 @@
 ![Designer and Developer](https://github.com/GregTorrillo/GregTorrillo/blob/main/LinkedIn%20Profile%20Banner_1128X191.jpg)
 
-## Hi, I'm Greg
+# Hello world, welcome to my GitHub!
 
-### Designer and Developer
+### Developer and Artist
 
 
-I have a passion for technology and creation.  I design and develop innovative web and mobile software applications in both front-end and back-end coding.
+I have a passion for creating art and technology.  I design and develop innovative web and mobile software applications in both front-end and back-end coding.
 
 
 
