@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Hi, I'm Greg
+#### Designer and Developer
+![Designer and Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGowBG5lIbGIQ/profile-displaybackgroundimage-shrink_350_1400/0/1646418905823?e=2147483647&v=beta&t=yZZG7dYrgM2e_A04m8Kv6y5VxRtQFiHhIzEeok-YnYU)
 
-<!--
-**GregTorrillo/GregTorrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a passion for technology and creation.  I design and develop innovative web and mobile software applications in both front-end and back-end coding.
 
-Here are some ideas to get you started:
+Skills:  JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
