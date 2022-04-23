@@ -8,7 +8,7 @@
 <p>I have a passion for creating art and technology.  I design and develop innovative web and mobile software applications in both front-end and back-end coding.</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> 
   
