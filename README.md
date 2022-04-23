@@ -2,7 +2,7 @@
 
 # Hello, welcome to my GitHub!
 
-## Developer and Artist<
+## Developer and Artist
 <p>I have a passion for creating art and technology.  I design and develop innovative web and mobile software applications in both front-end and back-end coding.</p>
 <br>
 
