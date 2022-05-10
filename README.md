@@ -3,7 +3,7 @@
 # Hello, welcome to my GitHub!
 
 ## Developer and Designer
-<p>I have a passion for creating art and technology.  I design and develop innovative web and mobile software applications in both front-end and back-end coding.</p>
+<p>An experienced engineer and innovative artist adept in bringing forth expertise in design, installation, testing and maintenance of software systems. A dedicated problem solver with a proven track record of creating and implementing successful full-stack web applications. A tireless leader able to effectively manage projects, as well as collaborate as part of a productive team.</p>
 <br>
 EMAIL: greg.torrillo@gmail.com
 
