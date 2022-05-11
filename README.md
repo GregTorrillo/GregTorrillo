@@ -3,7 +3,7 @@
 # Hello, welcome to my GitHub!
 
 ## Developer and Designer
-<p>An experienced engineer and cutting-edge adept in bringing forth expertise in design, installation, testing and maintenance of software systems. A dedicated problem solver with a proven track record of creating and implementing successful full-stack web applications. A tireless leader able to effectively manage projects, as well as collaborate as part of a productive team.</p>
+<p>An experienced engineer and cutting-edge designer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. A dedicated problem solver with a proven track record of creating and implementing successful full-stack web applications. A tireless leader able to effectively manage projects, as well as collaborate as part of a productive team.</p>
 <br>
 EMAIL: greg.torrillo@gmail.com
 
