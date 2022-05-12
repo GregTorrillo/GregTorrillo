@@ -32,7 +32,7 @@
         <td width="50%">
           <h3 align="center">DRNKR Cocktail Search Engine</h3>
           <p align="center">
-            <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine/blob/main/drnkr.gif?raw=true" alt="project example"/> </a>
+            <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine/blob/main/DRNKR.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" height ="25px"></a> <a href="https://drnkr.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-F78166?style=flat-square" alt="Website" height="25px"></a></span>
             <p align="center">
               Search for cocktail name an image, ingredients, and instructions are displayed.
@@ -42,7 +42,7 @@
         <td width="50%">
           <h3 align="center">ONNA Salon</h3>
           <p align="center">
-            <a href="https://github.com/GregTorrillo/Onna-Salon" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Onna-Salon/blob/main/images/ONNA%20salon.jpg?raw=true" alt="project example"/> </a>
+            <a href="https://github.com/GregTorrillo/Onna-Salon" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Onna-Salon/blob/main/Onna.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/GregTorrillo/Onna-Salon" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" height ="25px"></a> <a href="https://onnasalon.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-F78166?style=flat-square" alt="Website" height="25px"></a> </span>
             <p align="center">
               A high-end beauty salon with a stylish and sophisticated layout.
