@@ -11,7 +11,7 @@
           <h3 align="center">SMARTS Trivia App</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/SMARTS-Trivia-App" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/SMARTS-Trivia-App/blob/main/smarts.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/GregTorrillo/SMARTS-Trivia-App" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" height ="25px"></a> <a href="https://smarts-trivia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=F78166?style=flat-square" alt="Website" height="25px"></a> </span>
+            <span> <a href="https://github.com/GregTorrillo/SMARTS-Trivia-App" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" height ="25px"></a> <a href="https://smarts-trivia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-website-F78166?style=for-the-badge&color=F78166?style=flat-square" alt="Website" height="25px"></a> </span>
             <p align="center">
               Answer ten multiple choice questions from random categories with random difficulty. 
             </p>
