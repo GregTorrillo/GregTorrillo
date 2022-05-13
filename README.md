@@ -59,9 +59,9 @@
 <br>
  <h1 align="center"> Connect with me</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/gregtorrillo/" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-linkedin.png" alt="GregTorrillo" height="80" width="80" /></a>
-<a href="https://twitter.com/GregTorrillo" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/3d-twitter.png?raw=true" alt="GregTorrillo" height="50" width="50" /></a>
-<a href="mailto:greg.torrillo@gmail.com"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/3d-gmail-logo.png?raw=true" alt="GregTorrillo" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/gregtorrillo/" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-linkedin.png" alt="GregTorrillo-linkedin" height="80" width="80" /></a>
+<a href="https://twitter.com/GregTorrillo" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-twitter.png" alt="GregTorrillo-twitter" height="80" width="80" /></a>
+<a href="mailto:greg.torrillo@gmail.com"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/3d-gmail-logo.png?raw=true" alt="GregTorrillo-mail" height="50" width="50" /></a>
 </p>
 
 
