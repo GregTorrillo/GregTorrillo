@@ -21,7 +21,7 @@
           <h3 align="center">Star Wars Millennium Falcon Explorer App</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/Millennium-Falcon-Explorer-App" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Millennium-Falcon-Explorer-App/blob/main/MF-explorer-app.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/GregTorrillo/Millennium-Falcon-Explorer-App" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" height ="25px"></a> <a href="https://millenium-falcon-explorer.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" height="25px"></a> </span>
+            <span> <a href="https://github.com/GregTorrillo/Millennium-Falcon-Explorer-App" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://millenium-falcon-explorer.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
             <p align="center">
               Explore the Universe inside the cockpit of the Millennium Falcon using NASA API: APOD (Astronomy Picture of the Day).
             </p>
@@ -34,7 +34,7 @@
           <h3 align="center">DRNKR Cocktail Search Engine</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine/blob/main/DRNKR.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" height ="25px"></a> <a href="https://drnkr.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" height="25px"></a></span>
+            <span> <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://drnkr.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a></span>
             <p align="center">
               Search for cocktail name an image, ingredients, and instructions are displayed.
             </p>
@@ -44,7 +44,7 @@
           <h3 align="center">ONNA Salon</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/Onna-Salon" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Onna-Salon/blob/main/Onna.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/GregTorrillo/Onna-Salon" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" height ="25px"></a> <a href="https://onnasalon.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" height="25px"></a> </span>
+            <span> <a href="https://github.com/GregTorrillo/Onna-Salon" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://onnasalon.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
             <p align="center">
               A high-end beauty salon with a stylish and sophisticated layout.
             </p>
