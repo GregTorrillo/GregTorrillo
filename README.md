@@ -76,7 +76,7 @@
 <br>
  <h1 align="center"> Connect with me</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gregtorrillo/" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-      linkedin.png" alt="GregTorrillo-linkedin" height="80" width="80" /></a>
+  <a href="https://www.linkedin.com/in/gregtorrillo/" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-linkedin.png" alt="GregTorrillo-linkedin" height="80" width="80" /></a>
   <a href="https://twitter.com/GregTorrillo" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-twitter.png"   alt="GregTorrillo-twitter" height="80" width="80" /></a>
   <a href="mailto:greg.torrillo@gmail.com"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-email.png" alt="GregTorrillo-  mail" height="80" width="80" /></a>
 </p>
