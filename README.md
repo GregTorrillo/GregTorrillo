@@ -55,16 +55,30 @@
 </div>
 <br>
 <h1 align="center">Languages and Tools</h1>
-<p align="center"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-html5.png" alt="html5" width="80" height="80"/> <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-CSS3.png" alt="css3" width="80" height="80"/> <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-JS.png" alt="javascript" width="80" height="80"/> <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-react.png" alt="react" width="80" height="80"/></p>
-<p align="center"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-express.png" alt="express" width="80" height="80"/> <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-nodejs.png" alt="nodejs" width="80" height="80"/> <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-mongodb.png" alt="mongodb" width="80" height="80"/></p>
-<p align="center"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-git.png" alt="git" width="80" height="80"/> <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-postman.png" alt="postman" width="80" height="80"/> </p>
-<p align="center"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-PS.png" alt="photoshop" width="80" height="80"/> </p>
+<p align="center">
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-react.png" alt="react" width="80" height="80"/>
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-git.png" alt="git" width="80" height="80"/> 
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-postman.png" alt="postman" width="80" height="80"/> 
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-PS.png" alt="photoshop" width="80" height="80"/>
+</p>
+<p align="center">
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-express.png" alt="express" width="80" height="80"/> 
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-nodejs.png" alt="nodejs" width="80" height="80"/> 
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-mongodb.png" alt="mongodb" width="80" height="80"/>
+</p>
+<p align="center">
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-html5.png" alt="html5" width="80" height="80"/> 
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-CSS3.png" alt="css3" width="80" height="80"/> 
+</p>
+<p align="center">
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-JS.png" alt="javascript" width="80" height="80"/>
+</p>
 <br>
  <h1 align="center"> Connect with me</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/gregtorrillo/" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-linkedin.png" alt="GregTorrillo-linkedin" height="80" width="80" /></a>
-<a href="https://twitter.com/GregTorrillo" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-twitter.png" alt="GregTorrillo-twitter" height="80" width="80" /></a>
-<a href="mailto:greg.torrillo@gmail.com"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-email.png" alt="GregTorrillo-mail" height="80" width="80" /></a>
+  <a href="https://www.linkedin.com/in/gregtorrillo/" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-      linkedin.png" alt="GregTorrillo-linkedin" height="80" width="80" /></a>
+  <a href="https://twitter.com/GregTorrillo" target="blank"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-twitter.png"   alt="GregTorrillo-twitter" height="80" width="80" /></a>
+  <a href="mailto:greg.torrillo@gmail.com"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-email.png" alt="GregTorrillo-  mail" height="80" width="80" /></a>
 </p>
 
 
