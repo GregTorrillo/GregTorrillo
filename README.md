@@ -30,7 +30,6 @@
       </tr>
       <tr>
         <td width="50%">
-      
           <h3 align="center">DRNKR Cocktail Search Engine</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine/blob/main/DRNKR.gif?raw=true" alt="project example"/> </a>
