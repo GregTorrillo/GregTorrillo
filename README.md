@@ -36,7 +36,7 @@
             <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine/blob/main/DRNKR.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://drnkr.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a></span>
             <p align="center">
-              Search for cocktail name an image, ingredients, and instructions are displayed.
+              Search by cocktail name, spirit, or ingredient and the cocktail image, ingredients, and instructions are displayed.
             </p>
           </p>
         </td>
