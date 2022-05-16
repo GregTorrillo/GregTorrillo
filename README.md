@@ -1,4 +1,4 @@
-![Designer and Developer](https://github.com/GregTorrillo/GregTorrillo/blob/main/LinkedIn%20Profile%20Banner_1128X191.jpg)
+(https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-profile-video.mp4
 
 <p>An experienced engineer and innovative designer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. A dedicated problem solver with a proven track record of creating and implementing successful full-stack web applications. A tireless leader able to effectively manage projects, as well as collaborate as part of a productive team.</p>
 <br>
