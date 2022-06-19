@@ -1,6 +1,6 @@
 <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-profile-video1.gif" alt="GregTorrillo.gif" width="100%">
 
-<p>An experienced engineer and innovative designer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. A dedicated problem solver with a proven track record of creating and implementing successful full-stack web applications. A tireless leader able to effectively manage projects, as well as collaborate as part of a productive team.</p>
+<p>An experienced engineer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. A dedicated problem solver with a proven track record of creating and implementing successful full-stack web applications. A tireless leader able to effectively manage projects, as well as collaborate as part of a productive team.</p>
 <br>
 
 <h1 align="center">Projects</h1>
