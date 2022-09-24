@@ -11,7 +11,7 @@
           <h3 align="center">COINVERSE Crypto App</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/Coinverse" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Coinverse/blob/master/coinverse.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/GregTorrillo/Coinverse" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://coinverse-ekid6cz39-gregtorrillo.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
+            <span> <a href="https://github.com/GregTorrillo/Coinverse" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://coinverse-gqwvjqucl-gregtorrillo.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
             <p align="center">
                Get the latest crypto currency data and news.  Login create a customized watchlist.
             </p>
