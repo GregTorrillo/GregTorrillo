@@ -41,12 +41,13 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">ONNA Salon</h3>
+        <h3 align="center">DRNKR Cocktail Search Engine</h3>
           <p align="center">
-            <a href="https://github.com/GregTorrillo/Onna-Salon" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Onna-Salon/blob/main/Onna.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/GregTorrillo/Onna-Salon" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://onnasalon.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
+            <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine/blob/main/DRNKR.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/GregTorrillo/DRNKR-Cocktail-Search-Engine" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://drnkr.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a></span>
             <p align="center">
-              A high-end beauty salon with a stylish and sophisticated layout.
+              Search by cocktail name, spirit, or ingredient and the cocktail image, ingredients, and instructions are displayed.
+            </p>
             </p>
           </p>
         </td>
