@@ -44,7 +44,7 @@
         <h3 align="center">GregTorrillo.dev</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/Portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Portfolio/blob/main/portfolio.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/GregTorrillo/Portfolio" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://drnkr.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a></span>
+            <span> <a href="https://github.com/GregTorrillo/Portfolio" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://gregtorrillo.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a></span>
             <p align="center">
               Portfolio site showcasing featured projects, about me, and links to contact me.
             </p>
