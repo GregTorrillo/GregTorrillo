@@ -41,6 +41,7 @@
           </p>
         </td>
         <td width="50%">
+                <br>
         <h3 align="center">GregTorrillo.dev</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/Portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Portfolio/blob/main/portfolio.gif" alt="project example"/> </a>
