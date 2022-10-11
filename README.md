@@ -8,7 +8,17 @@
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">COINVERSE Crypto App</h3>
+          <h3 align="center">ICON E-Commerce App</h3>
+          <p align="center">
+            <a href="https://github.com/GregTorrillo/Icon" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Coinverse/blob/master/coinverse.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/GregTorrillo/Icon" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://icon-sneakers.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
+            <p align="center">
+               Online retailer specialezed in Air Jordan I sneakers.
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+         <h3 align="center">COINVERSE Crypto App</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/Coinverse" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Coinverse/blob/master/coinverse.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/GregTorrillo/Coinverse" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://coinverse-jqbojk2dd-gregtorrillo.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
@@ -17,26 +27,16 @@
             </p>
           </p>
         </td>
+      </tr>
+      <tr>
         <td width="50%">
+          <br>
           <h3 align="center">SMARTS Trivia App</h3>
           <p align="center">
             <a href="https://github.com/GregTorrillo/SMARTS-Trivia-App" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/SMARTS-Trivia-App/blob/main/smarts.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/GregTorrillo/SMARTS-Trivia-App" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://smarts-trivia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
             <p align="center">
               Answer ten multiple choice questions from random categories with random difficulty. 
-            </p>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%">
-          <br>
-           <h3 align="center">Star Wars Millennium Falcon Explorer App</h3>
-          <p align="center">
-            <a href="https://github.com/GregTorrillo/Millennium-Falcon-Explorer-App" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/Millennium-Falcon-Explorer-App/blob/main/MF-explorer-app.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/GregTorrillo/Millennium-Falcon-Explorer-App" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://millenium-falcon-explorer.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
-            <p align="center">
-              Explore the Universe inside the cockpit of the Millennium Falcon using NASA API: APOD (Astronomy Picture of the Day).
             </p>
           </p>
         </td>
