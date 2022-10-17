@@ -63,15 +63,15 @@
 <p align="center">
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-react.png" alt="react" width="80" height="80"/>
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-redux.png" alt="redux" width="80" height="80"/>
-  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-next.png" alt="next" width="80" height="80"/>
 </p>
 <p align="center">
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-nodejs.png" alt="nodejs" width="80" height="80"/>
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-express.png" alt="express" width="80" height="80"/> 
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-mongodb.png" alt="mongodb" width="80" height="80"/>
-  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-firebase.png" alt="mongodb" width="80" height="80"/>
 </p>
 <p align="center">
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-next.png" alt="next" width="80" height="80"/>
+  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-firebase.png" alt="firebase" width="80" height="80"/>
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-sass.png" alt="sass" width="80" height="80"/> 
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-html5.png" alt="html5" width="80" height="80"/> 
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-CSS3.png" alt="css3" width="80" height="80"/> 
