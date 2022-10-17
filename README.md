@@ -75,8 +75,6 @@
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-sass.png" alt="sass" width="80" height="80"/> 
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-html5.png" alt="html5" width="80" height="80"/> 
   <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-CSS3.png" alt="css3" width="80" height="80"/> 
-  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-git.png" alt="git" width="80" height="80"/> 
-  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-postman.png" alt="postman" width="80" height="80"/> 
 </p>
 <br>
  <h1 align="center"> Connect with me</h1>
