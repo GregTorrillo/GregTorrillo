@@ -33,7 +33,7 @@
           <br>
           <h3 align="center">SILO Video Streaming Service</h3>
           <p align="center">  
-            <a href="https://github.com/GregTorrillo/Coinverse" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/silo.gif" alt="project example"/> </a>
+            <a href="https://github.com/GregTorrillo/silo" target="_blank" rel="noreferrer"> <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/silo_1.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/GregTorrillo/silo" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=F78166" alt="button to repository" width="65px" height ="25px"></a> <a href="https://silo-7i90.onrender.com/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
             <p align="center">
               Video streaming service showcasing the best curated short films and series.  
